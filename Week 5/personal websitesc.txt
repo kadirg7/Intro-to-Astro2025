@@ -1,0 +1,17 @@
+Some researchers' websites had a very eye-catching and impressive landing page. These kinds of sites made me feel like, “I should explore this person more.” On the other hand, some websites seemed to be made just for the sake of having a page. Still, in general, they were all functional.
+
+In some websites, navigation buttons like "CV" or "About Me" were placed at the top, small and simple. Others introduced themselves step by step, which I really liked. Professionally designed websites looked both visually appealing and well-organized. In contrast, some websites felt more like plain text files and weren’t very engaging.
+
+Overall, these websites helped me get to know the person better. If they shared their research, I was also able to learn about their scientific work.
+
+When I build my own personal website, I want to include an animated and dynamic landing page. I plan to add a navigation menu with the following sections:
+
+- About Me
+
+- Education
+
+- My Interests
+
+- Blog Page
+
+This way, I hope to create a website that is both professional and engaging.
